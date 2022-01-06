@@ -1,0 +1,28 @@
+body {
+  margin: 0;
+  padding: 0;
+}
+
+.my-box {
+  background-color: #d3d3d3;
+  height: 100px;
+}
+
+.my-box div {
+  height: 80px;
+  margin-top: 10px;
+  text-align: center;
+  color: azure;
+}
+
+.my-box .div-1 {
+  background-color: #1c6683;
+}
+
+.my-box .div-2 {
+  background-color: #831d1c;
+}
+
+.my-box .div-3 {
+  background-color: #4e3030;
+}
