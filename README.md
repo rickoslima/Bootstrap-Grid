@@ -1,4 +1,3 @@
 # Bootstrap-Grid
  
-https://rickoslima.github.io/projeto-curso-front-end-designer/
-
+https://rickoslima.github.io/Bootstrap-Grid/
